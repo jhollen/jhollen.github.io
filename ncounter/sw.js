@@ -1,5 +1,6 @@
 var serviceWorkerOption = {
   "assets": [
+    "./oss-licenses.json",
     "./index.js",
     "./index.html"
   ]
