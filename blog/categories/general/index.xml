@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>General on The Apps Blog</title>
+		<link>https://apps.jhollen.com/blog/categories/general/</link>
+		<description>Recent content in General on The Apps Blog</description>
+		<generator>Hugo 0.66.0 -- gohugo.io</generator>
+		<language>en-us</language>
+		<managingEditor>james@jhollen.com (James Hollenbeck)</managingEditor>
+		<webMaster>james@jhollen.com (James Hollenbeck)</webMaster>
+		<copyright>James Hollenbeck</copyright>
+		<lastBuildDate>Wed, 04 Mar 2020 09:55:30 -0500</lastBuildDate>
+		<atom:link href="https://apps.jhollen.com/blog/categories/general/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Introducing NCounter</title>
+			<link>https://apps.jhollen.com/blog/posts/introducing-ncounter/</link>
+			<pubDate>Wed, 04 Mar 2020 09:55:30 -0500</pubDate>
+			<author>james@jhollen.com (James Hollenbeck)</author>
+			<guid isPermaLink="true">https://apps.jhollen.com/blog/posts/introducing-ncounter/</guid>
+			<description>&lt;p&gt;A few years ago I wrote my second Android app, NCounter. It was a simple utility that did one thing: counted. I mostly wrote it to get myself up to date on Android development. Once it was done, it turned out to be useful for me. It was a quick way to keep track of anything I was trying to quantify like spending or calories.&lt;/p&gt;
+&lt;p&gt;Since then I&amp;rsquo;ve switched to the iPhone and the app is long gone from the Play store. I recently felt the urge to take on a personal project to strengthen my web development skills. I&amp;rsquo;ve missed my old app, so the obvious choice was recreating NCounter.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://apps.jhollen.com/ncounter/&#34;&gt;And here it is.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m happy with how NCounter has turned out so far, thanks in no small part to the advancement of the web platform over the last several years. The app runs entirely offline, though it&amp;rsquo;s not quite a proper installable app yet. Adding it to the home screen is working well enough for now.&lt;/p&gt;
+&lt;p&gt;As far as features that interest users, saving history, working offline, and a dark theme are probably the only visible ones. As a developer I&amp;rsquo;ve had a chance to use a lot of things I think are cool. I&amp;rsquo;ve used svelte and webpack previously, but this was my first chance to build something with them from the ground up.&lt;/p&gt;
+&lt;p&gt;NCounter is still very much a work in progress. It&amp;rsquo;s fully usable now and I can&amp;rsquo;t forsee any breaking changes, but there&amp;rsquo;s still a sizable list of changes I want to make. Syncing to the cloud, making the app installable, proper accessibility, and more.&lt;/p&gt;
+&lt;p&gt;I will be doing a post-mortem on development so far. I&amp;rsquo;m hoping I can fill in some gaps in documentation I found in a few libraries. I&amp;rsquo;m also hoping to keep that app as simple as possible so it can serve as an example of how to develop a web app. No promises that it&amp;rsquo;s a good example.&lt;/p&gt;
+</description>
+		</item>
+	</channel>
+</rss>
